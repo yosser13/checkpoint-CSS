@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    overflow: hidden;
+}
+.dropdown{
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+}
+
+.dropdown>li{
+    display: inline;
+    text-align: center;
+}
+
+body{
+    height: 100vh;
+    background-image: url(https://media1.popsugar-assets.com/files/thumbor/zJrAWR_TAuMaTPoz7mmRv3E_Yrk/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/02/25/742/n/1922441/3676200fcba8d155_shutterstock_1263965395/i/Off--Rack-Outfits--List-Celebrities.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+
+}
